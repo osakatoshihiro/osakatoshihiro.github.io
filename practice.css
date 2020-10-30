@@ -1,0 +1,34 @@
+p{
+    color:red;
+}
+
+header{
+    width:900px;
+    margin: 0 auto;
+}
+
+.menu li{
+    float:left;
+    display: inline-block;
+    width: 19%;
+    height: 10px; 
+    background-color: red;
+    margin-right: 2px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 20px;
+
+}
+
+.menu li:hover{
+    background-color: red;
+    opacity: 0.5;
+}
+
+.menu a{
+    display: block;  /*←これを入れることで、文字以外の部分もリンククリックできるようになる*/
+    text-decoration: none;
+    color: white;
+}
+
+
