@@ -1,1 +1,0 @@
-# osakatoshihiro.github.io
